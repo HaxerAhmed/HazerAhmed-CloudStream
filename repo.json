@@ -3,6 +3,6 @@
   "description": "Repository for the Cinefreak CloudStream plugin",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/HaxerAhmed/HazerAhmed-CloudStream/builds/plugins.json"
+    "https://raw.githubusercontent.com/HaxerAhmed/HazerAhmed-CloudStream/main/plugins.json"
   ]
 }
