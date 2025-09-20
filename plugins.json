@@ -1,6 +1,17 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/HaxerAhmed/HazerAhmed-CloudStream/main/cinefreak_plugin.zip",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
     "name": "Cinefreak",
-    "file": "cinefreak_plugin.zip"
+    "internalName": "Cinefreak",
+    "authors": ["HaxerAhmed"],
+    "description": "Cinefreak CloudStream plugin",
+    "repositoryUrl": "https://github.com/HaxerAhmed/HazerAhmed-CloudStream",
+    "tvTypes": ["Movie", "TvSeries"],
+    "language": "en",
+    "iconUrl": "",
+    "isAdult": false
   }
 ]
