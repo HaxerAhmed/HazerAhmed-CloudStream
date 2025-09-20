@@ -1,17 +1,17 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/HaxerAhmed/HazerAhmed-CloudStream/main/cinefreak_plugin.zip",
+    "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/CineFreak.cs3",
     "status": 1,
-    "version": 1,
+    "version": 5,
     "apiVersion": 1,
-    "name": "Cinefreak",
-    "internalName": "Cinefreak",
-    "authors": ["HaxerAhmed"],
-    "description": "Cinefreak CloudStream plugin",
-    "repositoryUrl": "https://github.com/HaxerAhmed/HazerAhmed-CloudStream",
-    "tvTypes": ["Movie", "TvSeries"],
-    "language": "en",
-    "iconUrl": "",
+    "name": "CineFreak",
+    "internalName": "CineFreak",
+    "authors": ["salman731"],
+    "description": "Free Download All Hollywood, Bollywood, Bangla, Tamil, Turkish/ Chinese Movies | Korean Drama Series In Hindi Dubbed, English (Dual Audio) | HEVC 10bit | x264 300mb | K-Drama | Anime | Hindi | Watch Online Free...",
+    "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+    "tvTypes": ["Movie", "TVSeries"],
+    "language": "hi",
+    "iconUrl": "https://cinefreak.net/wp-content/uploads/2024/08/cropped-cinefreak-favicon-192x192.png",
     "isAdult": false
   }
 ]
